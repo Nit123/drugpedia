@@ -54,7 +54,6 @@
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
-                        <li><a runat="server" href="~/Template">Template</a></li>
                     </ul>
                 </div>
             </div>
@@ -65,6 +64,7 @@
             <hr />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <img src="goodRxLogo.png" alt="GoodRx Logo" />
             </footer>
         </div>
 
