@@ -65,3 +65,7 @@ tr.reactionHigh {
 u {
     text-decoration: underline;
 }
+
+p.red{
+    color:red;
+}
