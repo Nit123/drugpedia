@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Acetaminophen.aspx.cs" Inherits="informedPatient_prototype.Acetaminophen" %>
+﻿<%@ Page Title="Acetaminophen" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Acetaminophen.aspx.cs" Inherits="informedPatient_prototype.Acetaminophen" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     
     <h1>Acetaminophen (Tylenol)</h1>
@@ -125,8 +125,10 @@
     <hr />
     </section>
     <h2><b>Price Information:</b><br /></h2>
-    <em>Disclaimer: This price information is from data collected by the GoodRx API. <br /> 
-        <b>The prices below are accurate for those without insurance. All insurance copays are different. Contact your health insurance provider to find out about your personal copay.</b></em>
+    <em>Disclaimer: All disclaimers regarding this information is located on the <a href="Disclaimer.aspx" target="_blank">Disclaimer page</a> of this website. <br />
+         <br />
+           
+       </em>
     <br />
     <table>
         <tr class="off">

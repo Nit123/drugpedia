@@ -7,7 +7,6 @@
         <p class="lead">Drugpedia is an online resource for various information on over-the-counter and prescription drugs accessible to anyone and everyone. Powered by the RxNav Database
             of the U.S National Library of Medicine and the pricing APIs of GoodRx, Inc., this database is the best place to find out information regarding drug prices and interactions with other drugs.
         </p>
-        <p><a href="About.aspx" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
     <div class="row">
