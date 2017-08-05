@@ -195,7 +195,8 @@ namespace informedPatient_prototype
                     //Response.Write(Convert.ToString(json_data));
                     var obj = JObject.Parse(json_data);
                     var price = (string)obj.SelectToken("data.price[0]");
-                    Response.Write(string.Format("{0:c}", price));
+                    price = string.Format("{0:0.2}", price);
+                    Response.Write(price);
                 }
                 catch (Exception e)
                 {
@@ -240,6 +241,7 @@ namespace informedPatient_prototype
                     //Response.Write(Convert.ToString(json_data));
                     var obj = JObject.Parse(json_data);
                     var price = (string)obj.SelectToken("data.price");
+                    price = (string.Format("{0:c}", price));
                     Response.Write(string.Format("{0:c}", price));
                 }
                 catch (Exception e)

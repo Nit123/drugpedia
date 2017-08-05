@@ -27,6 +27,11 @@
             <td>Akrimax Pharmaceuticals, LLC.</td>
             <td><a href="https://www.tirosint.com">www.tirosint.com</a></td>
         </tr>
+        <tr>
+            <td>Levoxyl</td>
+            <td>Pfizer Inc.</td>
+           <td><a href="https://www.levoxyl.com">www.levoxyl.com</a></td>
+        </tr>
     </table>
          <hr />
     </section>
@@ -52,67 +57,31 @@
             <th>Brand Names (if applicable)</th>
         </tr>
         <tr class="reactionMid">
-            <td><u><strong>Lisinopril</strong></u></td>
+            <td><u><strong>Sertaline <br /> Escitalopram <br /> Duloxentine <br /> Fluoxetine <br />Venlafaxine</strong></u></td>
             <td><strong>Moderate</strong></td>
             <td><b><u>Offical Description:</u></b><br />
-               The serum concentration Atorvastatin calcium can be increased when it is combined with Lisinopril.<br />
+               The therapeutic efficacy of Levothryoxine can be decreased when used in combination with the second drug.<br />
                 <br />
                 <b><u>Layman's Description:</u><br /></b>
-                The effectiveness of Atorvastatin calcium can be increased from that of the original intended dosage.<br />
+                The effectiveness of Levothryoxine can be decreased from that of the original intended dosage.<br />
                 <br />
                 <b><u>Implications:</u><br /></b>
-                This can, in severe cases, lead to an overdose of Atorvastatin calcium. An overdose can lead to muscle pain,
-                tenderness, or weakness, particularly if accompanied by malaise or fever or if muscles signs and symptoms persist after 
-                discontinuing after discontinuing the drug.<br />
+                This can lead to the failure of the drug's purpose and low levels of thyroid hormone.<br />
             </td>
             <td>
                 <strong>
-                Prinivil<br />
-                Zestril<br />
-                Qbrelis
+                Zoloft<br />
+                    Lexapro
+                <br />
+                Cymbalta
+                    <br />
+                    Prozac
+                    <br />
+                    Effexor
                 </strong>
             </td>
         </tr>
-             <tr class="reactionMid">
-            <td><u><strong>NotARealDrug3</strong></u></td>
-            <td><strong>Moderate</strong></td>
-            <td><b><u>Offical Description:</u></b><br />
-                Sciency words that are confusing to most people in this nation.
-                In other words, what you get out of most websites that have the same functionality that we have.<br />
-                <br />
-                <b><u>Layman's Description:</u><br /></b>
-                An explanation that makes sense to most people.<br />
-                <br />
-                <b><u>Implications:</u><br /></b>
-                What does that interaction cause. For example, what does high blood pressure lead to? Is it a concern I should have? Why is this so bad?<br />
-            </td>
-            <td>
-                <strong>
-                DrugthatsnotReal2<br />
-                DrugthatsneverEal2<br />
-                </strong>
-            </td>
-        </tr>
-              <tr class="reactionHigh">
-            <td><u><strong>NotARealDrug4</strong></u></td>
-            <td><strong>High</strong></td>
-            <td><b><u>Offical Description:</u></b><br />
-                Sciency words that are confusing to most people in this nation.
-                In other words, what you get out of most websites that have the same functionality that we have.<br />
-                <br />
-                <b><u>Layman's Description:</u><br /></b>
-                An explanation that makes sense to most people.<br />
-                <br />
-                <b><u>Implications:</u><br /></b>
-                What does that interaction cause. For example, what does high blood pressure lead to? Is it a concern I should have? Why is this so bad?<br />
-            </td>
-            <td>
-                <strong>
-                DrugthatsnotReal3<br />
-                DrugthatsneverEal3<br />
-                </strong>
-            </td>
-        </tr>
+             
     </table>
     <hr />
     </section>
@@ -128,10 +97,22 @@
             <th>Fair Price</th>
         </tr>
         <tr>
-            <td>    <%goodRxDrugInfo("lipitor"); %></td>
-            <td><%goodRxComparePrice("lipitor"); %></td>
-            <td>$<%goodRxLowPrice("lipitor"); %></td>
-            <td>$<%goodRxFairPrice("lipitor");%></td>
+            <td>    <%goodRxDrugInfo("synthroid"); %></td>
+            <td><%goodRxComparePrice("synthroid"); %></td>
+            <td>$<%goodRxLowPrice("synthroid"); %></td>
+            <td>$<%goodRxFairPrice("synthroid");%></td>
+        </tr>
+        <tr>
+            <td>    <%goodRxDrugInfo("tirosint"); %></td>
+            <td><%goodRxComparePrice("tirosint"); %></td>
+            <td>$<%goodRxLowPrice("tirosint"); %></td>
+            <td>$<%goodRxFairPrice("tirosint");%></td>
+        </tr>
+        <tr>
+            <td>    <%goodRxDrugInfo("levoxyl"); %></td>
+            <td><%goodRxComparePrice("levoxyl"); %></td>
+            <td>$<%goodRxLowPrice("levoxyl"); %></td>
+            <td>$<%goodRxFairPrice("levoxyl");%></td>
         </tr>
     </table>
     
