@@ -20,7 +20,7 @@
         <tr>
             <td>Norvasc (Amwaz)</td>
             <td>Pfizer Inc.</td>
-            <td><a href="https://www.norvasc.com">www.norvasc.com</a></td>
+            <td><a href="https://www.norvasc.com" target="_blank">www.norvasc.com</a></td>
         </tr>
         
     </table>
@@ -28,15 +28,9 @@
     </section>
     <section>
         <h2><b>Drug Interactions</b></h2>
-       <em>Disclaimer: Trust your doctor over some website that was made in under 24 hours. 
-           Seriously, do you think that two high school seniors know more than medical professionals that have had
-           years of experience? <br />
-           <br />
-           <b>The drug interactions listed on this site are inclusive. 
-            This means that drug interactions are only listed if both drugs are listed on this site. Otherwise it is not mentioned. <br />
-                Seriously! This is not a comphrensive list. Please ask your doctor before taking two drugs together if there is any chance 
-                of a risky interaction.  <br />
-           </b>
+       <<em>Disclaimer: All disclaimers regarding this information is located on the <a href="Disclaimer.aspx" target="_blank">Disclaimer page</a> of this website. <br />
+         <br />
+           
        </em>
        
         <br />

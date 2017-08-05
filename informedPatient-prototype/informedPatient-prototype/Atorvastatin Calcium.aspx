@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Atorvastatin Calcium.aspx.cs" Inherits="informedPatient_prototype.Atorvastatin_Calcium" %>
+﻿<%@ Page Title="Atrovastatin Calcium" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Atorvastatin Calcium.aspx.cs" Inherits="informedPatient_prototype.Atorvastatin_Calcium" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     
-    <h1>Lipitor (Atrovastatin Calcium)</h1>
+    <h1>Atrovastatin Calcium (Lipitor)</h1>
     <hr />
     <section><h2><b>General information</b></h2>
         <br />
@@ -21,22 +21,16 @@
         <tr>
             <td>Lipitor</td>
             <td>Pfizer Pharmaceuticals</td>
-            <td><a href="https://www.lipitor.com">www.lipitor.com</a></td>
+            <td><a href="https://www.lipitor.com" target="_blank">www.lipitor.com</a></td>
         </tr>
     </table>
          <hr />
     </section>
     <section>
         <h2><b>Drug Interactions</b></h2>
-       <em>Disclaimer: Trust your doctor over some website that was made in under 24 hours. 
-           Seriously, do you think that two high school seniors know more than medical professionals that have had
-           years of experience? <br />
-           <br />
-           <b>The drug interactions listed on this site are inclusive. 
-            This means that drug interactions are only listed if both drugs are listed on this site. Otherwise it is not mentioned. <br />
-                Seriously! This is not a comphrensive list. Please ask your doctor before taking two drugs together if there is any chance 
-                of a risky interaction.  <br /> <br />
-           </b>
+       <em>Disclaimer: All disclaimers regarding this information is located on the <a href="Disclaimer.aspx" target="_blank">Disclaimer page</a> of this website. <br />
+         <br />
+           
        </em>
         <p style ="color:red"><b>(RDR) - Rare Drug Reaction</b></p>
        
@@ -77,7 +71,7 @@
                    </strong></u></td>
             <td><strong>Moderate</strong></td>
             <td><b><u>Offical Description:</u></b><br />
-               The serum concentration Atorvastatin calcium can be increased when it is combined with these drugs.<br />
+               The serum concentration of Atorvastatin calcium can be increased when it is combined with these drugs.<br />
                 <br />
                 <b><u>Layman's Description:</u><br /></b>
                 The effectiveness of Atorvastatin calcium can be increased from that of the original intended dosage.<br />

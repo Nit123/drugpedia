@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %>Drugpedia</title>
+    <title><%: Page.Title %>-Drugpedia</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -47,13 +47,26 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">Application name</a>
+                    <a class="navbar-brand" runat="server" href="~/">Drugpedia</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/About">About</a></li>
-                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/Disclaimer">Disclaimer</a></li>
+                        <li><div class="dropdown">
+  <button class="dropbtn">Medications</button>
+  <div class="dropdown-content">
+    <a href="Atorvastatin Calcium.aspx">Atorvastatin calcium (Lipitor)</a>
+    <a href="Levothryoxine">Levothyroxine (Synthroid)</a>
+    <a href="Lisinopril">Lisinopril (Prinivil)</a>
+    <a href="Omeprazole">Omeprazole (Prilosec)</a>
+    <a href="Metformin">Metformin (Glucophage)</a>
+    <a href="Amlodipine">Amlodipine (Norvasc)</a>
+    <a href="Simvastatin">Simvastatin (Zocor)</a>
+    <a href="Acetaminophen">Acetaminophen (Tylenol)</a>
+    <a href="Metoprolol">Metoprolol (Lopressor)</a>
+    <a href="Amphetamine">Amphetamine/Dextroamphetamine (Adderall)</a>
+  </div></div></li>
                     </ul>
                 </div>
             </div>
@@ -63,7 +76,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Drugpedia</p>
                 <img src="goodRxLogo.png" alt="GoodRx Logo" />
             </footer>
         </div>
