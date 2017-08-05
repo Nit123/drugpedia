@@ -127,6 +127,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Acetaminophen.aspx" />
     <Content Include="Amlodipine.aspx" />
     <Content Include="Atorvastatin Calcium.aspx" />
     <Content Include="Contact.aspx" />
@@ -147,6 +148,7 @@
     <Content Include="Levothryoxine.aspx" />
     <Content Include="Lisinopril.aspx" />
     <Content Include="Metformin.aspx" />
+    <Content Include="Metoprolol.aspx" />
     <Content Include="Omeprazole.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -185,6 +187,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Acetaminophen.aspx.cs">
+      <DependentUpon>Acetaminophen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acetaminophen.aspx.designer.cs">
+      <DependentUpon>Acetaminophen.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Amlodipine.aspx.cs">
       <DependentUpon>Amlodipine.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -245,6 +254,13 @@
     </Compile>
     <Compile Include="Metformin.aspx.designer.cs">
       <DependentUpon>Metformin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Metoprolol.aspx.cs">
+      <DependentUpon>Metoprolol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Metoprolol.aspx.designer.cs">
+      <DependentUpon>Metoprolol.aspx</DependentUpon>
     </Compile>
     <Compile Include="Omeprazole.aspx.cs">
       <DependentUpon>Omeprazole.aspx</DependentUpon>
