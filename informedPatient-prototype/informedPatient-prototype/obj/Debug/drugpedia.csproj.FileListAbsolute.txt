@@ -59,3 +59,4 @@ C:\Nithu\drugpedia\informedPatient-prototype\informedPatient-prototype\bin\Micro
 C:\Nithu\drugpedia\informedPatient-prototype\informedPatient-prototype\bin\Microsoft.AI.Web.xml
 C:\Nithu\drugpedia\informedPatient-prototype\informedPatient-prototype\obj\Debug\informedPatient-prototype.dll
 C:\Nithu\drugpedia\informedPatient-prototype\informedPatient-prototype\obj\Debug\informedPatient-prototype.pdb
+C:\Nithu\drugpedia\informedPatient-prototype\informedPatient-prototype\obj\Debug\drugpedia.csprojResolveAssemblyReference.cache
