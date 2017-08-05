@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Omeprazole.aspx.cs" Inherits="informedPatient_prototype.Omeprazole" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Metformin.aspx.cs" Inherits="informedPatient_prototype.Metformin" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     
     <h1>Omeprazole (Prilosec)</h1>
