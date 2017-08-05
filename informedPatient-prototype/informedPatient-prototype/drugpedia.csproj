@@ -144,6 +144,7 @@
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Levothryoxine.aspx" />
+    <Content Include="Lisinopril.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -219,6 +220,13 @@
     </Compile>
     <Compile Include="Levothryoxine.aspx.designer.cs">
       <DependentUpon>Levothryoxine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Lisinopril.aspx.cs">
+      <DependentUpon>Lisinopril.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Lisinopril.aspx.designer.cs">
+      <DependentUpon>Lisinopril.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">

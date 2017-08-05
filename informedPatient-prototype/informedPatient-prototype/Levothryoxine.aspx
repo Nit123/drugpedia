@@ -5,7 +5,7 @@
     <hr />
     <section><h2><b>General information</b></h2>
         <br />
-    <em><strong></strong>Syntrhoid </em>is a common prescription medication that helps increase thryoid hormone and treats hypothroidism.
+    <em><strong></strong>Synthroid </em>is a common prescription medication that helps increase thryoid hormone and treats hypothroidism.
         <hr />
     </section>
      <section>
