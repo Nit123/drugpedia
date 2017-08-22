@@ -57,7 +57,7 @@
             <td>
                 <strong>
                 Zithromax<br />
-                DrugthatsneverEal2<br />
+                <br />
                 </strong>
             </td>
         </tr>
