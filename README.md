@@ -7,4 +7,4 @@ An online reference for drug interactions and drug prices.
 ### Homepage
 ![alt text][homepage]
 
-[homepage]: images/homepage.png
+[homepage]: images/homepage.PNG
