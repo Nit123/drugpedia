@@ -2,7 +2,7 @@
 
 An online reference for drug interactions and drug prices.
 
-**Best Education Hack**, *SoHacks 4*
+**Best Education Hack**, *School's Out Hackathon 4*
 
 ### Homepage
 ![alt text][homepage]
