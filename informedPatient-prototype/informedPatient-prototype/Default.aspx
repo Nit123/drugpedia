@@ -20,6 +20,17 @@
                 <a class="btn btn-default" href="https://mor.nlm.nih.gov/RxNav/" target="_blank">Learn more &raquo;</a>
             </p>
         </div>
+        <div class="col-md-4">
+            <h2>Drug Methodology</h2>
+            <p>
+               The list of drugs that are cross-referenced for drug interactions are mentioned on this Google Docs. 
+               For more information regarding the methodology, please see the <a href="Disclaimer.aspx">Disclaimer</a> page.
+            </p>
+            <p>
+                <a class="btn btn-default" href="https://docs.google.com/document/d/1u72stK9BPUvJeJ9dl_Xaj2CBD5UiRlWMrf8GIcPRPYA/edit?usp=sharing" target="_blank">Learn more &raquo;</a>
+            </p>
+        </div>
+           
         <div>
             <div class="col-md-4"></div>
         </div>

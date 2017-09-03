@@ -23,5 +23,13 @@ Citing DrugBank: Wishart DS, Knox C, Guo AC, Shrivastava S, Hassanali M, Stothar
 
     <br />
     <br />
-    The <b>Drug Interactions</b> listed are only those included in the list of top 50 most prescriped drugs in the United States located <a href="https://www.lowestmed.com/top-50-prescription-drug-filled/" target="_blank">here</a>.
+    The <b>Drug Interactions</b> listed are only those included in the list of top 50 most prescriped drugs in the United States located <a href="https://docs.google.com/document/d/1u72stK9BPUvJeJ9dl_Xaj2CBD5UiRlWMrf8GIcPRPYA/edit?usp=sharing" target="_blank">here</a>.
+    <br />
+    <br />
+    <h4><b>Methodology</b></h4>
+    <p>The drug interactions listed on this website are only listed on the drug page if taking the second drug (ie. the drug on the Interactions list) affects the usage of the first drug 
+        and <b>not vice-versa.</b> For example, when looking on the page for Drug B, you will only find a listing for Drug A if Drug A does something to Drug B. However, if Drug B does something to   
+        Drug A, you will have to look at the Drug A's page. <b>That is why it is recommended to look at both pages of the drug when comparing one drug to another.</b> This may change in the future 
+        and if it does, then this statement will be removed and replaced. This is the methodology of Drugpedia 1.0.
+    </p>
 </asp:Content>

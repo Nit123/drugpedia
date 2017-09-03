@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Amphetamine.aspx.cs" Inherits="informedPatient_prototype.Amphetamine" %>
+﻿<%@ Page Title="Amphetamine" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Amphetamine.aspx.cs" Inherits="informedPatient_prototype.Amphetamine" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     
     <h1>Amphetamine/Dextroamphetamine (Adderall)</h1>
